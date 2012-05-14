@@ -1,4 +1,4 @@
-﻿// Learn more about F# at http://fsharp.net
+﻿module Problem1
 
 open System
 let rec GetMultiples n =
